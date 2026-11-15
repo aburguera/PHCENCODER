@@ -10,8 +10,7 @@ Science and programming by Antoni Burguera (antoni dot burguera at uib dot es) -
 
 If you use this software, please cite the following publication.
 
-* To be posted soon. Please, contact the author.
-
+**A. Burguera**, "*Hierarchical Color Encoding for Progressive Image Transmission in Underwater Environments*," in IEEE Robotics and Automation Letters, vol. 8, no. 5, pp. 2970-2975, May 2023, doi: 10.1109/LRA.2023.3264753.
 
 ## Provided classes
 
